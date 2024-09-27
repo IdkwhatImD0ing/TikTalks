@@ -1,0 +1,29 @@
+{
+    "images": [
+        {
+            "description": "A futuristic spaceship traveling through space with stars and galaxies in the background.",
+            "start": 0,
+            "end": 11
+        },
+        {
+            "description": "An advanced, sustainable spaceship with sleek design and green technology.",
+            "start": 11,
+            "end": 22
+        },
+        {
+            "description": "NASA's Artemis lunar base concept with astronauts working on the moon surface.",
+            "start": 22,
+            "end": 41
+        },
+        {
+            "description": "Astronauts training and working together, representing the future pioneers of space exploration.",
+            "start": 41,
+            "end": 66
+        },
+        {
+            "description": "A breathtaking view of Earth from space, showcasing the beauty and vastness of the cosmos.",
+            "start": 66,
+            "end": 108
+        }
+    ]
+}
